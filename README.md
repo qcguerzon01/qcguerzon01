@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 ![MuaKissGIF](https://github.com/user-attachments/assets/59e43ce6-c2ce-4484-8697-983652599504)
+
 
 <!--
 **qcguerzon01/qcguerzon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
